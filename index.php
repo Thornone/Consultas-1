@@ -168,6 +168,7 @@ $(window).load(function() {
                 <i class="fa fa-map-marker"></i> Nuevo Laredo, Tamps. INDEPENDENCIA #3335 Sector Centro<br>
                 <i class="fa fa-envelope"></i><a href="#"> marthaeva@consultasaduanales.com.mx</a><br>
                 <i class="fa fa-phone"></i> TEL: (867) 712-34-48
+                <i class="fa fa-phone"></i>(867) 196-35-27
             </div>
             </div>
         </div>
@@ -219,9 +220,9 @@ if (!isset($_GET['m'])){
 ?>
     <div class="slider">  
         <div class="camera_wrap">
-            <div data-src="http://livedemo00.template-help.com/wt_53534/img/picture1.jpg"><div class="camera-caption fadeIn"><p class="title">Con nuestros Profesionales <br>las entrevistas de Servicios <br>son Garantizadas</p><a href="#" class="btn-default btn1">Ordene Ahora!</a></div></div>
-            <div data-src="http://livedemo00.template-help.com/wt_53534/img/picture2.jpg"><div class="camera-caption fadeIn"><p class="title">Profesionales <br>que cubren el negocio <br>para cada una de sus descripciones</p><a href="#" class="btn-default btn1">Ordene Ahora!</a></div></div>
-            <div data-src="http://livedemo00.template-help.com/wt_53534/img/picture3.jpg"><div class="camera-caption fadeIn"><p class="title">Tu primer paso <br> es escalar <br>por las brechas de un buen servicio</p><a href="#" class="btn-default btn1">Ordene Ahora!</a></div></div>
+            <div data-src="http://livedemo00.template-help.com/wt_53534/img/picture1.jpg"><div class="camera-caption fadeIn"><p class="title">LEY DEL IMPUESTO GENERAL DE IMPORTACION Y EXPORTACION <br>Ley de los Impuestos Generales de Importación y de Exportación u otra <br>disposición u ordenamiento que la establezca o altere.</p></div></div>
+            <div data-src="http://livedemo00.template-help.com/wt_53534/img/picture2.jpg"><div class="camera-caption fadeIn"><p class="title">NOTAS LEGALES Y EXPLICATIVAS <br>Se presenta el tratamiento arancelario aplicable a la importacion de mercancias al Amparo <br>de los tratados y convenios comerciales suscritos por Mexico en el Exterior.</p></div></div>
+            <div data-src="http://livedemo00.template-help.com/wt_53534/img/picture3.jpg"><div class="camera-caption fadeIn"><p class="title">COMPENDIO DE COMERCIO EXTERIOR <br> Abreviaturas e índice temático Ley aduanera Reglamento de la ley aduanera Ley federal de derechos (artículos relacionados) <br>Reglas de carácter general en materia de comercio exterior Anexo glosario de definiciones y acrónimos de reglas de carácter general en materia de comercio exterior para 2012.</p></div></div>
         </div>
     </div>
 <?php
@@ -252,7 +253,7 @@ if (!isset($_GET['m'])){
                 <div class="col-lg-4 col-md-4 col-sm-6">
                     <div class="maxheight3">
                         <p class="title">Direcci&oacute;n y Contacto</p>
-                        <p>INDEPENDENCIA #3335 <br> SECTOR CENTRO <br>TEL: (867) 712-34-48 <br>Departamento de Ventas:<br><a href="#">marthaeva@consultasaduanales.com.mx</a></p>
+                        <p>INDEPENDENCIA #3335 <br> SECTOR CENTRO <br>TELS: (867) 712-34-48 <br>(867) 196-35-27 <br>Departamento de Ventas:<br><a href="#">marthaeva@consultasaduanales.com.mx</a></p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 hidden-sm hidden-xs">

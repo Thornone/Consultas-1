@@ -8,14 +8,14 @@
                     <li><a href="#">NOTAS EXPLICATIVAS</a></li>
                     <li><a href="#">MISCELANEA DE COMERCIO EXTERIOR</a></li>
                 </ul>
-                <p>En las ediciones impresas se utiliza papel bond y un sistema que permite una impresión clara; se presentan empastadas en carpeta de piel, que no sólo les da una mejor presentación sino que además, las protege del uso diario, dándole mayor durabilidad y con hojas sustituibles.</p>
-                <p>En nuestra edicion impresa de la Ley del Impuestos Generales de Importación y Exportación asi como de las Notas Explicativas y la Miscelanea de Comercio Exterior, ofrecemos servicio de actualización por mensajería especializada, de manera que siempre contara con información actual.</p>
+                <p class="fuente">En las ediciones impresas se utiliza papel bond y un sistema que permite una impresión clara; se presentan empastadas en carpeta de piel, que no sólo les da una mejor presentación sino que además, las protege del uso diario, dándole mayor durabilidad y con hojas sustituibles.</p>
+                <p class="fuente">En nuestra edicion impresa de la Ley del Impuestos Generales de Importación y Exportación asi como de las Notas Explicativas y la Miscelanea de Comercio Exterior, ofrecemos servicio de actualización por mensajería especializada, de manera que siempre contara con información actual.</p>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp; -webkit-animation-name: fadeInUp;">
                 <h2>MISCELANEA DE COMERCIO EXTERIOR</h2>
-                <p>Reglas de Caracter General en Materia de Comercio Exterior</p>
-                <p>Anexos de la Miscelanea de Comercio Exterior</p>
-                <p>Asi mismo como servicio adicional, enviamos diariamente un aviso de las publicaciones del Diario Oficial de la Federación que afecten la "Ley de los Impuestos Generales de Importación y Exportación"; y de las Resoluciones que modifiquen la Miscelánea de Comercio Exterior, esperamos con este servicio, responder eficientemente a sus necesidades.</p>
+                <p class="fuente">Reglas de Caracter General en Materia de Comercio Exterior</p>
+                <p class="fuente">Anexos de la Miscelanea de Comercio Exterior</p>
+                <p class="fuente">Asi mismo como servicio adicional, enviamos diariamente un aviso de las publicaciones del Diario Oficial de la Federación que afecten la "Ley de los Impuestos Generales de Importación y Exportación"; y de las Resoluciones que modifiquen la Miscelánea de Comercio Exterior, esperamos con este servicio, responder eficientemente a sus necesidades.</p>
             </div>
         </div>
     </div>
@@ -65,7 +65,7 @@
                     <li> Incluyendo tambien los Paises de ALADI </li>
                 </ul>
 
-                <p>Además, por ser cliente suscrito a nuestras actualizaciones cuatrimestrales , a través de un login y un password que se le proporciona, Ud. puede acceder a nuestra página de Internet www.consultasaduanales.com.mx y consultar :</p>
+                <p class="fuente">Además, por ser cliente suscrito a nuestras actualizaciones cuatrimestrales , a través de un login y un password que se le proporciona, Ud. puede acceder a nuestra página de Internet www.consultasaduanales.com.mx y consultar :</p>
 
                 <ul class="list3">
                     <li>ACUERDOS Y DECRETOS, que establecen medidas no arancelarias así como Permisos y Nom's.</li>

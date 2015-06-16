@@ -32,6 +32,10 @@ p {
 	font-weight: 300;
 	line-height: 18px;
 }
+p.fuente {
+	line-height: 25px;
+	font-size: 22px;
+}
 h1.navbar-brand_ {
 	margin: 0;
 	padding: 0;
